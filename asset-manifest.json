@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6dc87f07.css",
+    "main.js": "/portfolio/static/js/main.f01c58db.js",
+    "static/media/background.png": "/portfolio/static/media/background.336fabb458893636260b.png",
+    "static/media/animal.png": "/portfolio/static/media/animal.3ff1df2cf3d74814ed9c.png",
+    "static/media/cruzeiro.png": "/portfolio/static/media/cruzeiro.faf2e581b3cade6576fe.png",
+    "static/media/art.png": "/portfolio/static/media/art.0e5b10ed6412d6990243.png",
+    "static/media/Curriculo.png": "/portfolio/static/media/Curriculo.beefcb832ce937895dfb.png",
+    "static/media/Visual.png": "/portfolio/static/media/Visual.66fba52ba930f2fe2268.png",
+    "static/media/Montserrat-ExtraBoldItalic.ttf": "/portfolio/static/media/Montserrat-ExtraBoldItalic.4feac0ff571c88a04550.ttf",
+    "static/media/Montserrat-ExtraBold.ttf": "/portfolio/static/media/Montserrat-ExtraBold.5daafc620ecc802516f9.ttf",
+    "static/media/Montserrat-Thin.ttf": "/portfolio/static/media/Montserrat-Thin.e8ecb9f79ef9cbd2d9a8.ttf",
+    "static/media/play.png": "/portfolio/static/media/play.56cedbb53c293cc296fa.png",
+    "static/media/git.png": "/portfolio/static/media/git.7f13648cf6e164f207dc.png",
+    "static/media/perfil.jpg": "/portfolio/static/media/perfil.7de40ad4d1b954307dcc.jpg",
+    "static/media/figma.png": "/portfolio/static/media/figma.cd69addaa37c5cccbed6.png",
+    "static/media/github.png": "/portfolio/static/media/github.2968a57f39c811d11a11.png",
+    "static/media/css.png": "/portfolio/static/media/css.923ec2b77e7a4578fe64.png",
+    "static/media/wpp.png": "/portfolio/static/media/wpp.04d46d2992f18f7a84d3.png",
+    "index.html": "/portfolio/index.html",
+    "main.6dc87f07.css.map": "/portfolio/static/css/main.6dc87f07.css.map",
+    "main.f01c58db.js.map": "/portfolio/static/js/main.f01c58db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc87f07.css",
+    "static/js/main.f01c58db.js"
+  ]
+}
