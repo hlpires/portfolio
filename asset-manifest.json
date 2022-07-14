@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8e2465e4.css",
-    "main.js": "/portfolio/static/js/main.da64a2f2.js",
+    "main.css": "/portfolio/static/css/main.9ca10bbd.css",
+    "main.js": "/portfolio/static/js/main.06490299.js",
     "static/media/background.png": "/portfolio/static/media/background.336fabb458893636260b.png",
     "static/media/animal.png": "/portfolio/static/media/animal.3ff1df2cf3d74814ed9c.png",
     "static/media/cruzeiro.png": "/portfolio/static/media/cruzeiro.faf2e581b3cade6576fe.png",
@@ -19,14 +19,14 @@
     "static/media/perfil.jpg": "/portfolio/static/media/perfil.7de40ad4d1b954307dcc.jpg",
     "static/media/figma.png": "/portfolio/static/media/figma.cd69addaa37c5cccbed6.png",
     "static/media/github.png": "/portfolio/static/media/github.2968a57f39c811d11a11.png",
-    "static/media/css.png": "/portfolio/static/media/css.923ec2b77e7a4578fe64.png",
+    "static/media/css.png": "/portfolio/static/media/css.462316dcae9aa5384734.png",
     "static/media/wpp.png": "/portfolio/static/media/wpp.04d46d2992f18f7a84d3.png",
     "index.html": "/portfolio/index.html",
-    "main.8e2465e4.css.map": "/portfolio/static/css/main.8e2465e4.css.map",
-    "main.da64a2f2.js.map": "/portfolio/static/js/main.da64a2f2.js.map"
+    "main.9ca10bbd.css.map": "/portfolio/static/css/main.9ca10bbd.css.map",
+    "main.06490299.js.map": "/portfolio/static/js/main.06490299.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e2465e4.css",
-    "static/js/main.da64a2f2.js"
+    "static/css/main.9ca10bbd.css",
+    "static/js/main.06490299.js"
   ]
 }
