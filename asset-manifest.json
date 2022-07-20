@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5b617ba5.css",
-    "main.js": "/portfolio/static/js/main.2a39795e.js",
+    "main.js": "/portfolio/static/js/main.8b498f4a.js",
     "static/js/498.354d40aa.chunk.js": "/portfolio/static/js/498.354d40aa.chunk.js",
     "static/js/703.6f08a8cb.chunk.js": "/portfolio/static/js/703.6f08a8cb.chunk.js",
     "static/js/372.90cf2a78.chunk.js": "/portfolio/static/js/372.90cf2a78.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/Montserrat-ExtraBoldItalic.ttf": "/portfolio/static/media/Montserrat-ExtraBoldItalic.4feac0ff571c88a04550.ttf",
     "static/media/Montserrat-ExtraBold.ttf": "/portfolio/static/media/Montserrat-ExtraBold.5daafc620ecc802516f9.ttf",
     "static/media/Montserrat-Thin.ttf": "/portfolio/static/media/Montserrat-Thin.e8ecb9f79ef9cbd2d9a8.ttf",
-    "static/media/animal.png": "/portfolio/static/media/animal.0eb6b569939f21102d2b.png",
+    "static/media/animal.png": "/portfolio/static/media/animal.25fed4fd0989b6687646.png",
     "static/media/backend.png": "/portfolio/static/media/backend.b72efaab36142e3f8a5c.png",
     "static/media/cslogo.png": "/portfolio/static/media/cslogo.41f5da80e70a6aa011c7.png",
     "static/media/frontend.png": "/portfolio/static/media/frontend.fecfb9f99e88146fcac6.png",
@@ -27,13 +27,13 @@
     "static/media/wpp.png": "/portfolio/static/media/wpp.04d46d2992f18f7a84d3.png",
     "index.html": "/portfolio/index.html",
     "main.5b617ba5.css.map": "/portfolio/static/css/main.5b617ba5.css.map",
-    "main.2a39795e.js.map": "/portfolio/static/js/main.2a39795e.js.map",
+    "main.8b498f4a.js.map": "/portfolio/static/js/main.8b498f4a.js.map",
     "498.354d40aa.chunk.js.map": "/portfolio/static/js/498.354d40aa.chunk.js.map",
     "703.6f08a8cb.chunk.js.map": "/portfolio/static/js/703.6f08a8cb.chunk.js.map",
     "372.90cf2a78.chunk.js.map": "/portfolio/static/js/372.90cf2a78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b617ba5.css",
-    "static/js/main.2a39795e.js"
+    "static/js/main.8b498f4a.js"
   ]
 }
