@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4623bc02.css",
+    "main.css": "/portfolio/static/css/main.81950ff7.css",
     "main.js": "/portfolio/static/js/main.565f5dd6.js",
     "static/js/498.354d40aa.chunk.js": "/portfolio/static/js/498.354d40aa.chunk.js",
     "static/js/703.6f08a8cb.chunk.js": "/portfolio/static/js/703.6f08a8cb.chunk.js",
     "static/js/611.1e0fbdac.chunk.js": "/portfolio/static/js/611.1e0fbdac.chunk.js",
-    "static/media/background.png": "/portfolio/static/media/background.336fabb458893636260b.png",
+    "static/media/background.png": "/portfolio/static/media/background.cb9fe6d150b9703727b6.png",
     "static/media/art.png": "/portfolio/static/media/art.0e5b10ed6412d6990243.png",
     "static/media/Curriculo.png": "/portfolio/static/media/Curriculo.9a55a06d2174a8cf8bee.png",
     "static/media/comercio.png": "/portfolio/static/media/comercio.28faed01c0ff63ddeb7a.png",
@@ -20,14 +20,14 @@
     "static/media/ferramentas.png": "/portfolio/static/media/ferramentas.c5b081e2b8031dc29c4b.png",
     "static/media/wpp.png": "/portfolio/static/media/wpp.04d46d2992f18f7a84d3.png",
     "index.html": "/portfolio/index.html",
-    "main.4623bc02.css.map": "/portfolio/static/css/main.4623bc02.css.map",
+    "main.81950ff7.css.map": "/portfolio/static/css/main.81950ff7.css.map",
     "main.565f5dd6.js.map": "/portfolio/static/js/main.565f5dd6.js.map",
     "498.354d40aa.chunk.js.map": "/portfolio/static/js/498.354d40aa.chunk.js.map",
     "703.6f08a8cb.chunk.js.map": "/portfolio/static/js/703.6f08a8cb.chunk.js.map",
     "611.1e0fbdac.chunk.js.map": "/portfolio/static/js/611.1e0fbdac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4623bc02.css",
+    "static/css/main.81950ff7.css",
     "static/js/main.565f5dd6.js"
   ]
 }
