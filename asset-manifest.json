@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cb9bc8f4.css",
-    "main.js": "/portfolio/static/js/main.5731a175.js",
+    "main.css": "/portfolio/static/css/main.8c8eb771.css",
+    "main.js": "/portfolio/static/js/main.0f488382.js",
     "static/js/498.354d40aa.chunk.js": "/portfolio/static/js/498.354d40aa.chunk.js",
     "static/js/703.6f08a8cb.chunk.js": "/portfolio/static/js/703.6f08a8cb.chunk.js",
     "static/js/410.97806c7e.chunk.js": "/portfolio/static/js/410.97806c7e.chunk.js",
@@ -9,31 +9,30 @@
     "static/media/backgroundcell.png": "/portfolio/static/media/backgroundcell.2ec182538ad75eb057e7.png",
     "static/media/art.png": "/portfolio/static/media/art.0e5b10ed6412d6990243.png",
     "static/media/Curriculo.png": "/portfolio/static/media/Curriculo.f6bf1bf2a87a47954a6f.png",
-    "static/media/cslogo.png": "/portfolio/static/media/cslogo.d09476befbeed5a66a19.png",
-    "static/media/comercio.png": "/portfolio/static/media/comercio.28faed01c0ff63ddeb7a.png",
     "static/media/Montserrat-ExtraBoldItalic.ttf": "/portfolio/static/media/Montserrat-ExtraBoldItalic.4feac0ff571c88a04550.ttf",
     "static/media/Montserrat-ExtraBold.ttf": "/portfolio/static/media/Montserrat-ExtraBold.5daafc620ecc802516f9.ttf",
     "static/media/Montserrat-Thin.ttf": "/portfolio/static/media/Montserrat-Thin.e8ecb9f79ef9cbd2d9a8.ttf",
-    "static/media/modalEcommerce.png": "/portfolio/static/media/modalEcommerce.f309c5ec86b410e8b991.png",
     "static/media/reinoanimal.png": "/portfolio/static/media/reinoanimal.c63899bd14e5606c5526.png",
     "static/media/backend.png": "/portfolio/static/media/backend.b72efaab36142e3f8a5c.png",
-    "static/media/animal.png": "/portfolio/static/media/animal.b9848c82b461ef6b6f3a.png",
     "static/media/frontend.png": "/portfolio/static/media/frontend.fecfb9f99e88146fcac6.png",
     "static/media/play.png": "/portfolio/static/media/play.56cedbb53c293cc296fa.png",
+    "static/media/modalTecno.png": "/portfolio/static/media/modalTecno.c58de218ef6250a24475.png",
     "static/media/ferramentas.png": "/portfolio/static/media/ferramentas.c5b081e2b8031dc29c4b.png",
-    "static/media/cslogobc.png": "/portfolio/static/media/cslogobc.f3ca3ddf5a229c908eda.png",
+    "static/media/modalsafire.png": "/portfolio/static/media/modalsafire.83e11af54a86736e3cfb.png",
+    "static/media/animal.png": "/portfolio/static/media/animal.d043e098d796f27feffa.png",
     "static/media/socialmediagit.png": "/portfolio/static/media/socialmediagit.218a066991c6f33b1313.png",
+    "static/media/cslogo.png": "/portfolio/static/media/cslogo.103325d60822fa03d364.png",
     "static/media/wpp.png": "/portfolio/static/media/wpp.04d46d2992f18f7a84d3.png",
     "static/media/Download.png": "/portfolio/static/media/Download.a5f38e7c78cf06c6e8da.png",
     "index.html": "/portfolio/index.html",
-    "main.cb9bc8f4.css.map": "/portfolio/static/css/main.cb9bc8f4.css.map",
-    "main.5731a175.js.map": "/portfolio/static/js/main.5731a175.js.map",
+    "main.8c8eb771.css.map": "/portfolio/static/css/main.8c8eb771.css.map",
+    "main.0f488382.js.map": "/portfolio/static/js/main.0f488382.js.map",
     "498.354d40aa.chunk.js.map": "/portfolio/static/js/498.354d40aa.chunk.js.map",
     "703.6f08a8cb.chunk.js.map": "/portfolio/static/js/703.6f08a8cb.chunk.js.map",
     "410.97806c7e.chunk.js.map": "/portfolio/static/js/410.97806c7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb9bc8f4.css",
-    "static/js/main.5731a175.js"
+    "static/css/main.8c8eb771.css",
+    "static/js/main.0f488382.js"
   ]
 }
