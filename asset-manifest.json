@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a6a555b5.css",
-    "main.js": "/portfolio/static/js/main.9d2e3c6a.js",
+    "main.js": "/portfolio/static/js/main.a827445d.js",
     "static/js/498.354d40aa.chunk.js": "/portfolio/static/js/498.354d40aa.chunk.js",
     "static/js/703.6f08a8cb.chunk.js": "/portfolio/static/js/703.6f08a8cb.chunk.js",
     "static/js/410.97806c7e.chunk.js": "/portfolio/static/js/410.97806c7e.chunk.js",
@@ -14,11 +14,11 @@
     "static/media/Curriculo.png": "/portfolio/static/media/Curriculo.79e3216f61551852d41a.png",
     "static/media/reinoanimal.png": "/portfolio/static/media/reinoanimal.c63899bd14e5606c5526.png",
     "static/media/backend.png": "/portfolio/static/media/backend.b72efaab36142e3f8a5c.png",
-    "static/media/bitcoin.png": "/portfolio/static/media/bitcoin.b3ddb85e3ac46424fdc8.png",
     "static/media/frontend.png": "/portfolio/static/media/frontend.fecfb9f99e88146fcac6.png",
     "static/media/modalTecno.png": "/portfolio/static/media/modalTecno.c58de218ef6250a24475.png",
     "static/media/ferramentas.png": "/portfolio/static/media/ferramentas.c5b081e2b8031dc29c4b.png",
     "static/media/modalsafire.png": "/portfolio/static/media/modalsafire.83e11af54a86736e3cfb.png",
+    "static/media/bitcoin.png": "/portfolio/static/media/bitcoin.dfd1e90026d169db1d1b.png",
     "static/media/animal.png": "/portfolio/static/media/animal.d043e098d796f27feffa.png",
     "static/media/socialmediagit.png": "/portfolio/static/media/socialmediagit.218a066991c6f33b1313.png",
     "static/media/cslogo.png": "/portfolio/static/media/cslogo.103325d60822fa03d364.png",
@@ -26,13 +26,13 @@
     "static/media/Download.png": "/portfolio/static/media/Download.a5f38e7c78cf06c6e8da.png",
     "index.html": "/portfolio/index.html",
     "main.a6a555b5.css.map": "/portfolio/static/css/main.a6a555b5.css.map",
-    "main.9d2e3c6a.js.map": "/portfolio/static/js/main.9d2e3c6a.js.map",
+    "main.a827445d.js.map": "/portfolio/static/js/main.a827445d.js.map",
     "498.354d40aa.chunk.js.map": "/portfolio/static/js/498.354d40aa.chunk.js.map",
     "703.6f08a8cb.chunk.js.map": "/portfolio/static/js/703.6f08a8cb.chunk.js.map",
     "410.97806c7e.chunk.js.map": "/portfolio/static/js/410.97806c7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6a555b5.css",
-    "static/js/main.9d2e3c6a.js"
+    "static/js/main.a827445d.js"
   ]
 }
