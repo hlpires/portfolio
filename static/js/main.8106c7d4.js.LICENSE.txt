@@ -349,3 +349,5 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  * ====================================================================
  */
+
+//! goToAndStop must be relative to the start of the current segment
